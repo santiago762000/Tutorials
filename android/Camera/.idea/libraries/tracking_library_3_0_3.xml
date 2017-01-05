@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="tracking-library-3.0.3">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.aviary.android.feather.sdk/tracking-library/3.0.3/res" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.aviary.android.feather.sdk/tracking-library/3.0.3/jars/libs/localytics.jar!/" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.aviary.android.feather.sdk/tracking-library/3.0.3/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

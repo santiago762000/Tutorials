@@ -1,0 +1,3 @@
+-keep class com.localytics.android.** { *; }
+-keepattributes JavascriptInterface
+-dontwarn com.localytics.android.**

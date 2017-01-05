@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AdobeImageBaseTheme" parent="AdobeImageBase">
+        <item name="com_adobe_storeSelectableItemBackground">@drawable/com_adobe_image_item_background_dark</item>
+    </style>
+    <style name="AdobeImageWidget.FlatButton.RippleOnly" parent="AdobeImageWidget.FlatButton">
+        <item name="android:background">@drawable/com_adobe_image_flat_button_dgray_transparent_selector</item>
+    </style>
+    <style name="AdobeImageWidget.GridCard.WithElevation">
+        <item name="android:stateListAnimator">@animator/com_adobe_image_card_animation</item>
+        <item name="android:translationZ">@dimen/com_adobe_image_store_card_elevation</item>
+    </style>
+    <style name="AdobeImageWidget.ProgressBar" parent="Widget.AppCompat.ProgressBar">
+        <item name="android:indeterminateDrawable">@drawable/com_adobe_image_progress_medium_material</item>
+    </style>
+    <style name="AdobeImageWidget.ProgressBar.Inverse"/>
+    <style name="AdobeImageWidget.ProgressBar.Large" parent="@android:style/Widget.Material.ProgressBar.Large">
+        <item name="android:indeterminateDrawable">@drawable/com_adobe_image_progress_large_material</item>
+    </style>
+    <style name="AdobeImageWidget.ProgressBar.Large.Inverse"/>
+    <style name="AdobeImageWidget.ProgressBar.Small" parent="@android:style/Widget.Material.ProgressBar.Small">
+        <item name="android:indeterminateDrawable">@drawable/com_adobe_image_progress_small_material</item>
+    </style>
+    <style name="AdobeImageWidget.ProgressBar.Small.Inverse"/>
+    <style name="AdobeImageWidget.SeekBar" parent="@android:style/Widget.Material.SeekBar">
+        <!--<item name="android:progressDrawable">@drawable/com_adobe_image_scrubber_progress_horizontal</item>-->
+    </style>
+    <style name="AdobeImageWidget.ToolBar.WithElevation">
+        <item name="android:elevation">@dimen/com_adobe_image_action_bar_elevation</item>
+    </style>
+</resources>

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/layout-port/adobe_csdk_actionbar.xml",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/auth/0.9.1186/res/layout-port/adobe_csdk_actionbar.xml"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/layout-port/adobe_csdk_actionbar_loki.xml",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/auth/0.9.1186/res/layout-port/adobe_csdk_actionbar_loki.xml"
+    }
+]

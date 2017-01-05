@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-xlarge-xhdpi-v4/com_adobe_image_promo_image_packs.png",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.adobe.creativesdk/image/4.8.3/res/drawable-xlarge-xhdpi-v4/com_adobe_image_promo_image_packs.png"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-xlarge-xhdpi-v4/com_adobe_image_promo_image.jpg",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.adobe.creativesdk/image/4.8.3/res/drawable-xlarge-xhdpi-v4/com_adobe_image_promo_image.jpg"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-xlarge-xhdpi-v4/com_adobe_image_free_logo_button_invisible.png",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.adobe.creativesdk/image/4.8.3/res/drawable-xlarge-xhdpi-v4/com_adobe_image_free_logo_button_invisible.png"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-xlarge-xhdpi-v4/com_adobe_image_promo_header_banner_logged.png",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.adobe.creativesdk/image/4.8.3/res/drawable-xlarge-xhdpi-v4/com_adobe_image_promo_header_banner_logged.png"
+    }
+]

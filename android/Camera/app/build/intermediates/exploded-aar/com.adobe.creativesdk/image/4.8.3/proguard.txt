@@ -1,0 +1,163 @@
+
+-dontpreverify
+-optimizationpasses 5
+-dontusemixedcaseclassnames
+#-skipnonpubliclibraryclasses
+-optimizations !code/simplification/arithmetic,!field/*,!class/merging/*,!code/allocation/variable
+-renamesourcefileattribute SourceFile
+
+-keepattributes SourceFile
+-keepattributes LineNumberTable
+-keepattributes Signature
+-keepattributes InnerClasses
+-keepattributes *Annotation*
+-keepattributes EnclosingMethod
+
+-dontwarn com.squareup.okhttp.**
+-dontwarn retrofit2.**
+-dontwarn okhttp3.internal.**
+-dontwarn okio.**
+-dontwarn org.apache.commons.**
+-dontwarn java.lang.invoke.*
+-dontwarn sun.misc.Unsafe
+-dontwarn javax.annotation.**
+-dontwarn rx.**
+-dontwarn com.adobe.creativesdk.aviary.AdobeImageEditorActivityAbstract**
+-dontwarn org.apache.http.**
+-dontwarn oauth.signpost.signature.**
+-dontwarn uk.co.chrisjenx.calligraphy.CalligraphyContextWrapper
+-dontwarn com.adobe.creativeapps.gathercorelibrary.activity.CloudPickerActivity
+-dontnote
+
+-keep class * extends android.app.Service
+-keep class * extends android.app.Application
+-keep class * extends android.app.Service
+-keep class * extends android.content.BroadcastReceiver
+-keep class * extends android.content.ContentProvider
+-keep class * extends android.os.AsyncTask
+
+-keep class org.apache.commons.codec.binary.**
+-keep interface org.apache.commons.codec.binary.**
+-keep enum org.apache.commons.codec.binary.**
+-keep class org.apache.http.** { *; }
+
+-keep class javax.inject.* { *; }
+-keep class sun.misc.Unsafe { *; }
+
+-keep class com.adobe.creativesdk.aviary.AdobeImageIntent
+-keep class com.adobe.creativesdk.aviary.AdobeImageIntent$Builder
+-keep class com.adobe.creativesdk.aviary.AdobeImageIntent$SourceType
+-keep class com.adobe.creativesdk.aviary.internal.tracking.AbstractTracker
+-keep class com.adobe.creativesdk.aviary.internal.tracking.AdobeImageAnalyticsTracker
+-keep class com.adobe.creativesdk.aviary.internal.tracking.TrackerFactory
+-keep class com.adobe.creativesdk.aviary.utils.AdobeImageEditorIntentConfigurationValidator
+-keep class com.adobe.creativesdk.aviary.AdobeImageBillingService
+-keep public class com.adobe.creativesdk.aviary.transition.** { *; }
+-keep public class com.android.vending.billing.IInAppBillingService
+
+-keep class it.sephiroth.android.library.picasso.RequestCreator { *; }
+
+-keep interface com.adobe.creativesdk.aviary.internal.graphics.drawable.FeatherDrawable
+
+-keep class * extends com.adobe.creativesdk.aviary.widget.PackDetailLayout
+-keep class * extends com.adobe.creativesdk.aviary.internal.tracking.AbstractTracker
+
+-keep class com.adobe.creativesdk.typekit.TypekitActivity {
+    public void onEvent(**);
+}
+
+-keep class com.adobe.creativesdk.typekit.TypekitFontInfoActivity {
+    public void onEvent(**);
+}
+
+-keep enum org.greenrobot.eventbus.ThreadMode { *; }
+
+-keepclassmembers interface com.adobe.creativesdk.aviary.internal.graphics.drawable.FeatherDrawable {
+    <fields>;
+    <methods>;
+}
+
+-keepclassmembers class * extends com.adobe.creativesdk.aviary.internal.graphics.drawable.FeatherDrawable {
+    float getScaleX();
+    void setScaleX(float);
+}
+
+-keepclassmembers class com.adobe.creativesdk.aviary.AdobeImageIntent {*;}
+-keepclassmembers class com.adobe.creativesdk.aviary.AdobeImageIntent$Builder {*;}
+-keepclassmembers class com.adobe.creativesdk.aviary.AdobeImageIntent$SourceType {*;}
+
+-keepclassmembers class com.adobe.creativesdk.aviary.utils.AdobeImageEditorIntentConfigurationValidator {
+    <methods>;
+}
+
+#-keepclassmembers class com.adobe.creativesdk.aviary.internal.graphics.drawable.FeatherDrawable {*;}
+-keepclassmembers class com.adobe.creativesdk.aviary.internal.utils.SDKUtils {*;}
+-keepclassmembers class com.adobe.creativesdk.aviary.internal.utils.SDKUtils$ApiKeyReader {*;}
+
+## keep everything for native methods/fields
+
+-keepclassmembers class com.aviary.android.feather.sdk.BuildConfig {*;}
+
+-keepclassmembers class com.adobe.creativesdk.aviary.AdobeImageBillingService {*;}
+
+-keepclassmembers class * implements android.os.Parcelable {
+    static ** CREATOR;
+}
+
+-keepclassmembers class * {
+   private native <methods>;
+   public native <methods>;
+   protected native <methods>;
+   public static native <methods>;
+   private static native <methods>;
+   static native <methods>;
+   native <methods>;
+}
+
+-keepclasseswithmembers class * {
+    public <init>( com.adobe.creativesdk.aviary.internal.AdobeImageEditorController );
+}
+
+# EventBus 3.0
+-keepclassmembers class ** {
+    @org.greenrobot.eventbus.Subscribe <methods>;
+}
+-keep enum org.greenrobot.eventbus.ThreadMode { *; }
+
+# Only required if you use AsyncExecutor
+-keepclassmembers class * extends org.greenrobot.eventbus.util.ThrowableFailureEvent {
+    <init>(java.lang.Throwable);
+}
+
+-keepnames class * implements java.io.Serializable
+
+-keepclassmembers class * implements java.io.Serializable {
+    static final long serialVersionUID;
+    private static final java.io.ObjectStreamField[] serialPersistentFields;
+    private void writeObject(java.io.ObjectOutputStream);
+    private void readObject(java.io.ObjectInputStream);
+    java.lang.Object writeReplace();
+    java.lang.Object readResolve();
+    !static !transient <fields>;
+}
+
+# RxJava 1.0.14
+-keep class rx.internal.util.unsafe.** { *; }
+
+-keepclassmembers class rx.internal.util.unsafe.*ArrayQueue*Field* {
+   long producerIndex;
+   long consumerIndex;
+}
+
+-keepclassmembers class rx.internal.util.unsafe.BaseLinkedQueueProducerNodeRef {
+   long producerNode;
+   long consumerNode;
+}
+
+-dontwarn sun.misc.**
+
+
+# localytics 4.0
+-keep class com.localytics.android.** { *; }
+-keepattributes JavascriptInterface
+-dontwarn com.localytics.android.**

@@ -1,0 +1,650 @@
+[
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/abc_ic_star_black_48dp.png",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable-xxxhdpi-v4/abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/ic_arrow_back_white_24dp.png",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.adobe.creativesdk/image/4.8.3/res/drawable-xxxhdpi-v4/ic_arrow_back_white_24dp.png"
+    },
+    {
+        "merged": "/home/javier/AndroidStudioProjects/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/abc_text_select_handle_left_mtrl_light.png",
+        "source": "/home/javier/AndroidStudioProjects/Camera/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable-xxxhdpi-v4/abc_text_select_handle_left_mtrl_light.png"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/com_adobe_image_tool_ic_vignette.png",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.adobe.creativesdk/image/4.8.3/res/drawable-xxxhdpi-v4/com_adobe_image_tool_ic_vignette.png"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/com_adobe_image_promo_image.jpg",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.adobe.creativesdk/image/4.8.3/res/drawable-xxxhdpi-v4/com_adobe_image_promo_image.jpg"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable-xxxhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/com_adobe_image_tool_ic_overlay.png",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.adobe.creativesdk/image/4.8.3/res/drawable-xxxhdpi-v4/com_adobe_image_tool_ic_overlay.png"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/com_adobe_image_ic_lens_pressed.png",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.adobe.creativesdk/image/4.8.3/res/drawable-xxxhdpi-v4/com_adobe_image_ic_lens_pressed.png"
+    },
+    {
+        "merged": "/home/javier/AndroidStudioProjects/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "/home/javier/AndroidStudioProjects/Camera/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable-xxxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/com_adobe_image_ic_focus_radial.png",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.adobe.creativesdk/image/4.8.3/res/drawable-xxxhdpi-v4/com_adobe_image_ic_focus_radial.png"
+    },
+    {
+        "merged": "/home/javier/AndroidStudioProjects/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "/home/javier/AndroidStudioProjects/Camera/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable-xxxhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/com_adobe_image_tool_ic_effects.png",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.adobe.creativesdk/image/4.8.3/res/drawable-xxxhdpi-v4/com_adobe_image_tool_ic_effects.png"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/com_adobe_image_tool_ic_lighting.png",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.adobe.creativesdk/image/4.8.3/res/drawable-xxxhdpi-v4/com_adobe_image_tool_ic_lighting.png"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/com_adobe_image_tool_ic_vibrance.png",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.adobe.creativesdk/image/4.8.3/res/drawable-xxxhdpi-v4/com_adobe_image_tool_ic_vibrance.png"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/com_adobe_image_bottombar_check.png",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.adobe.creativesdk/image/4.8.3/res/drawable-xxxhdpi-v4/com_adobe_image_bottombar_check.png"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/com_adobe_image_resize_knob_pressed.png",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.adobe.creativesdk/image/4.8.3/res/drawable-xxxhdpi-v4/com_adobe_image_resize_knob_pressed.png"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/abc_text_select_handle_right_mtrl_dark.png",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable-xxxhdpi-v4/abc_text_select_handle_right_mtrl_dark.png"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/com_adobe_image_tool_ic_perspective_straighten.png",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.adobe.creativesdk/image/4.8.3/res/drawable-xxxhdpi-v4/com_adobe_image_tool_ic_perspective_straighten.png"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/com_adobe_image_tool_ic_saturation.png",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.adobe.creativesdk/image/4.8.3/res/drawable-xxxhdpi-v4/com_adobe_image_tool_ic_saturation.png"
+    },
+    {
+        "merged": "/home/javier/AndroidStudioProjects/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/abc_text_select_handle_right_mtrl_dark.png",
+        "source": "/home/javier/AndroidStudioProjects/Camera/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable-xxxhdpi-v4/abc_text_select_handle_right_mtrl_dark.png"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable-xxxhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/com_adobe_image_meme_clear_button_background.png",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.adobe.creativesdk/image/4.8.3/res/drawable-xxxhdpi-v4/com_adobe_image_meme_clear_button_background.png"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable-xxxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/abc_btn_radio_to_on_mtrl_000.png",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable-xxxhdpi-v4/abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/com_adobe_image_ic_add_text.png",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.adobe.creativesdk/image/4.8.3/res/drawable-xxxhdpi-v4/com_adobe_image_ic_add_text.png"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/abc_text_select_handle_left_mtrl_dark.png",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable-xxxhdpi-v4/abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/com_adobe_image_tool_ic_whiten.png",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.adobe.creativesdk/image/4.8.3/res/drawable-xxxhdpi-v4/com_adobe_image_tool_ic_whiten.png"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/com_adobe_image_editor_ic_bug.png",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.adobe.creativesdk/image/4.8.3/res/drawable-xxxhdpi-v4/com_adobe_image_editor_ic_bug.png"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/com_adobe_image_ic_colorsplash_erase.png",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.adobe.creativesdk/image/4.8.3/res/drawable-xxxhdpi-v4/com_adobe_image_ic_colorsplash_erase.png"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/com_adobe_image_editor_feedback_dislike.png",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.adobe.creativesdk/image/4.8.3/res/drawable-xxxhdpi-v4/com_adobe_image_editor_feedback_dislike.png"
+    },
+    {
+        "merged": "/home/javier/AndroidStudioProjects/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/abc_ic_star_half_black_16dp.png",
+        "source": "/home/javier/AndroidStudioProjects/Camera/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable-xxxhdpi-v4/abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/com_adobe_image_crop_knob_pressed.png",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.adobe.creativesdk/image/4.8.3/res/drawable-xxxhdpi-v4/com_adobe_image_crop_knob_pressed.png"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/com_adobe_image_effects_intensity.png",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.adobe.creativesdk/image/4.8.3/res/drawable-xxxhdpi-v4/com_adobe_image_effects_intensity.png"
+    },
+    {
+        "merged": "/home/javier/AndroidStudioProjects/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/abc_btn_radio_to_on_mtrl_015.png",
+        "source": "/home/javier/AndroidStudioProjects/Camera/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable-xxxhdpi-v4/abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/abc_ic_star_half_black_36dp.png",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable-xxxhdpi-v4/abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/ic_check_black_24dp.png",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.adobe.creativesdk/image/4.8.3/res/drawable-xxxhdpi-v4/ic_check_black_24dp.png"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/com_adobe_image_cancel_mark.png",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.adobe.creativesdk/image/4.8.3/res/drawable-xxxhdpi-v4/com_adobe_image_cancel_mark.png"
+    },
+    {
+        "merged": "/home/javier/AndroidStudioProjects/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/abc_ic_star_black_48dp.png",
+        "source": "/home/javier/AndroidStudioProjects/Camera/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable-xxxhdpi-v4/abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/abc_ic_star_black_16dp.png",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable-xxxhdpi-v4/abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/com_adobe_image_ic_typekit_disabled.png",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.adobe.creativesdk/image/4.8.3/res/drawable-xxxhdpi-v4/com_adobe_image_ic_typekit_disabled.png"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/com_adobe_image_tool_ic_focus.png",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.adobe.creativesdk/image/4.8.3/res/drawable-xxxhdpi-v4/com_adobe_image_tool_ic_focus.png"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/com_adobe_image_delete_knob_pressed.png",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.adobe.creativesdk/image/4.8.3/res/drawable-xxxhdpi-v4/com_adobe_image_delete_knob_pressed.png"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/fab_bg_normal.png",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.getbase/floatingactionbutton/1.10.0/res/drawable-xxxhdpi-v4/fab_bg_normal.png"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/com_adobe_image_ic_enhance_food.png",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.adobe.creativesdk/image/4.8.3/res/drawable-xxxhdpi-v4/com_adobe_image_ic_enhance_food.png"
+    },
+    {
+        "merged": "/home/javier/AndroidStudioProjects/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "/home/javier/AndroidStudioProjects/Camera/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable-xxxhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/com_adobe_image_bottombar_shadow.png",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.adobe.creativesdk/image/4.8.3/res/drawable-xxxhdpi-v4/com_adobe_image_bottombar_shadow.png"
+    },
+    {
+        "merged": "/home/javier/AndroidStudioProjects/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/abc_text_select_handle_left_mtrl_dark.png",
+        "source": "/home/javier/AndroidStudioProjects/Camera/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable-xxxhdpi-v4/abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/com_adobe_image_tool_ic_blur.png",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.adobe.creativesdk/image/4.8.3/res/drawable-xxxhdpi-v4/com_adobe_image_tool_ic_blur.png"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable-xxxhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/javier/AndroidStudioProjects/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/abc_btn_check_to_on_mtrl_015.png",
+        "source": "/home/javier/AndroidStudioProjects/Camera/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable-xxxhdpi-v4/abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/abc_ic_star_black_36dp.png",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable-xxxhdpi-v4/abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable-xxxhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/abc_text_select_handle_left_mtrl_light.png",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable-xxxhdpi-v4/abc_text_select_handle_left_mtrl_light.png"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/com_adobe_image_ic_profile.png",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.adobe.creativesdk/image/4.8.3/res/drawable-xxxhdpi-v4/com_adobe_image_ic_profile.png"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/com_adobe_image_flip_knob_pressed.png",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.adobe.creativesdk/image/4.8.3/res/drawable-xxxhdpi-v4/com_adobe_image_flip_knob_pressed.png"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/com_adobe_image_store_card_background_pressed_light.9.png",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.adobe.creativesdk/image/4.8.3/res/drawable-xxxhdpi-v4/com_adobe_image_store_card_background_pressed_light.9.png"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/com_adobe_image_ic_colorsplash_smart.png",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.adobe.creativesdk/image/4.8.3/res/drawable-xxxhdpi-v4/com_adobe_image_ic_colorsplash_smart.png"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/com_adobe_image_opacity_knob_pressed.png",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.adobe.creativesdk/image/4.8.3/res/drawable-xxxhdpi-v4/com_adobe_image_opacity_knob_pressed.png"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/com_adobe_image_ic_text_color_enabled.png",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.adobe.creativesdk/image/4.8.3/res/drawable-xxxhdpi-v4/com_adobe_image_ic_text_color_enabled.png"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/com_adobe_image_ic_rotate_left.png",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.adobe.creativesdk/image/4.8.3/res/drawable-xxxhdpi-v4/com_adobe_image_ic_rotate_left.png"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/com_adobe_image_apply_mark_disabled.png",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.adobe.creativesdk/image/4.8.3/res/drawable-xxxhdpi-v4/com_adobe_image_apply_mark_disabled.png"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/com_adobe_image_content_frame_item_image_checked.9.png",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.adobe.creativesdk/image/4.8.3/res/drawable-xxxhdpi-v4/com_adobe_image_content_frame_item_image_checked.9.png"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/com_adobe_image_tool_ic_enhance.png",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.adobe.creativesdk/image/4.8.3/res/drawable-xxxhdpi-v4/com_adobe_image_tool_ic_enhance.png"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/com_adobe_image_crop_knob.png",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.adobe.creativesdk/image/4.8.3/res/drawable-xxxhdpi-v4/com_adobe_image_crop_knob.png"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/com_adobe_image_flip_knob.png",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.adobe.creativesdk/image/4.8.3/res/drawable-xxxhdpi-v4/com_adobe_image_flip_knob.png"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/com_adobe_image_apply_mark_enabled.png",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.adobe.creativesdk/image/4.8.3/res/drawable-xxxhdpi-v4/com_adobe_image_apply_mark_enabled.png"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/com_adobe_image_opacity_knob.png",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.adobe.creativesdk/image/4.8.3/res/drawable-xxxhdpi-v4/com_adobe_image_opacity_knob.png"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/abc_ic_menu_share_mtrl_alpha.png",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable-xxxhdpi-v4/abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/com_adobe_image_ic_lens_checked.png",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.adobe.creativesdk/image/4.8.3/res/drawable-xxxhdpi-v4/com_adobe_image_ic_lens_checked.png"
+    },
+    {
+        "merged": "/home/javier/AndroidStudioProjects/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/abc_btn_radio_to_on_mtrl_000.png",
+        "source": "/home/javier/AndroidStudioProjects/Camera/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable-xxxhdpi-v4/abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/home/javier/AndroidStudioProjects/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "/home/javier/AndroidStudioProjects/Camera/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable-xxxhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable-xxxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/com_adobe_image_tool_ic_shadow.png",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.adobe.creativesdk/image/4.8.3/res/drawable-xxxhdpi-v4/com_adobe_image_tool_ic_shadow.png"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/com_adobe_image_ic_enhance_scenery.png",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.adobe.creativesdk/image/4.8.3/res/drawable-xxxhdpi-v4/com_adobe_image_ic_enhance_scenery.png"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/com_adobe_image_tool_ic_tint.png",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.adobe.creativesdk/image/4.8.3/res/drawable-xxxhdpi-v4/com_adobe_image_tool_ic_tint.png"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/com_adobe_image_tool_ic_meme.png",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.adobe.creativesdk/image/4.8.3/res/drawable-xxxhdpi-v4/com_adobe_image_tool_ic_meme.png"
+    },
+    {
+        "merged": "/home/javier/AndroidStudioProjects/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/abc_ic_star_black_16dp.png",
+        "source": "/home/javier/AndroidStudioProjects/Camera/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable-xxxhdpi-v4/abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "/home/javier/AndroidStudioProjects/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/abc_switch_track_mtrl_alpha.9.png",
+        "source": "/home/javier/AndroidStudioProjects/Camera/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable-xxxhdpi-v4/abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/abc_switch_track_mtrl_alpha.9.png",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable-xxxhdpi-v4/abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/fab_bg_mini.png",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.getbase/floatingactionbutton/1.10.0/res/drawable-xxxhdpi-v4/fab_bg_mini.png"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/com_adobe_image_ic_lens.png",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.adobe.creativesdk/image/4.8.3/res/drawable-xxxhdpi-v4/com_adobe_image_ic_lens.png"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/com_adobe_image_tool_ic_color.png",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.adobe.creativesdk/image/4.8.3/res/drawable-xxxhdpi-v4/com_adobe_image_tool_ic_color.png"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/abc_btn_radio_to_on_mtrl_015.png",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable-xxxhdpi-v4/abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/com_adobe_image_tool_ic_crop.png",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.adobe.creativesdk/image/4.8.3/res/drawable-xxxhdpi-v4/com_adobe_image_tool_ic_crop.png"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/com_adobe_image_ic_enhance_hidef.png",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.adobe.creativesdk/image/4.8.3/res/drawable-xxxhdpi-v4/com_adobe_image_ic_enhance_hidef.png"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/abc_text_select_handle_right_mtrl_light.png",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable-xxxhdpi-v4/abc_text_select_handle_right_mtrl_light.png"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/com_adobe_image_meme_clear_button_background_pressed.png",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.adobe.creativesdk/image/4.8.3/res/drawable-xxxhdpi-v4/com_adobe_image_meme_clear_button_background_pressed.png"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/com_adobe_image_editor_feedback_main.png",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.adobe.creativesdk/image/4.8.3/res/drawable-xxxhdpi-v4/com_adobe_image_editor_feedback_main.png"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/com_adobe_image_resize_knob.png",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.adobe.creativesdk/image/4.8.3/res/drawable-xxxhdpi-v4/com_adobe_image_resize_knob.png"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/com_adobe_image_store_card_background_enabled_light.9.png",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.adobe.creativesdk/image/4.8.3/res/drawable-xxxhdpi-v4/com_adobe_image_store_card_background_enabled_light.9.png"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/com_adobe_image_content_supplies.png",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.adobe.creativesdk/image/4.8.3/res/drawable-xxxhdpi-v4/com_adobe_image_content_supplies.png"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/com_adobe_image_wave_dot.png",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.adobe.creativesdk/image/4.8.3/res/drawable-xxxhdpi-v4/com_adobe_image_wave_dot.png"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable-xxxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/com_adobe_image_notification_item_installed.png",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.adobe.creativesdk/image/4.8.3/res/drawable-xxxhdpi-v4/com_adobe_image_notification_item_installed.png"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/com_adobe_image_tool_ic_warmth.png",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.adobe.creativesdk/image/4.8.3/res/drawable-xxxhdpi-v4/com_adobe_image_tool_ic_warmth.png"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/com_adobe_image_delete_knob.png",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.adobe.creativesdk/image/4.8.3/res/drawable-xxxhdpi-v4/com_adobe_image_delete_knob.png"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/com_adobe_image_ic_typekit_enabled.png",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.adobe.creativesdk/image/4.8.3/res/drawable-xxxhdpi-v4/com_adobe_image_ic_typekit_enabled.png"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/com_adobe_image_ic_focus_linear.png",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.adobe.creativesdk/image/4.8.3/res/drawable-xxxhdpi-v4/com_adobe_image_ic_focus_linear.png"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/com_adobe_image_promo_header_banner_logged.png",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.adobe.creativesdk/image/4.8.3/res/drawable-xxxhdpi-v4/com_adobe_image_promo_header_banner_logged.png"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/abc_ic_star_half_black_16dp.png",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable-xxxhdpi-v4/abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/com_adobe_image_tool_ic_orientation.png",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.adobe.creativesdk/image/4.8.3/res/drawable-xxxhdpi-v4/com_adobe_image_tool_ic_orientation.png"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/com_adobe_image_tool_ic_text.png",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.adobe.creativesdk/image/4.8.3/res/drawable-xxxhdpi-v4/com_adobe_image_tool_ic_text.png"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/com_adobe_image_gallery_eraser.png",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.adobe.creativesdk/image/4.8.3/res/drawable-xxxhdpi-v4/com_adobe_image_gallery_eraser.png"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/com_adobe_image_tool_ic_exposure.png",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.adobe.creativesdk/image/4.8.3/res/drawable-xxxhdpi-v4/com_adobe_image_tool_ic_exposure.png"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/com_adobe_image_tool_ic_perspective_vertical.png",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.adobe.creativesdk/image/4.8.3/res/drawable-xxxhdpi-v4/com_adobe_image_tool_ic_perspective_vertical.png"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/com_adobe_image_free_logo_button_invisible.png",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.adobe.creativesdk/image/4.8.3/res/drawable-xxxhdpi-v4/com_adobe_image_free_logo_button_invisible.png"
+    },
+    {
+        "merged": "/home/javier/AndroidStudioProjects/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/abc_text_select_handle_right_mtrl_light.png",
+        "source": "/home/javier/AndroidStudioProjects/Camera/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable-xxxhdpi-v4/abc_text_select_handle_right_mtrl_light.png"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/com_adobe_image_ok_mark.png",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.adobe.creativesdk/image/4.8.3/res/drawable-xxxhdpi-v4/com_adobe_image_ok_mark.png"
+    },
+    {
+        "merged": "/home/javier/AndroidStudioProjects/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "/home/javier/AndroidStudioProjects/Camera/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable-xxxhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "/home/javier/AndroidStudioProjects/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/abc_ic_star_half_black_36dp.png",
+        "source": "/home/javier/AndroidStudioProjects/Camera/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable-xxxhdpi-v4/abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/com_adobe_image_tool_ic_perspective_horizontal.png",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.adobe.creativesdk/image/4.8.3/res/drawable-xxxhdpi-v4/com_adobe_image_tool_ic_perspective_horizontal.png"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/com_adobe_image_orientation_knob.png",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.adobe.creativesdk/image/4.8.3/res/drawable-xxxhdpi-v4/com_adobe_image_orientation_knob.png"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/com_adobe_image_tool_ic_stickers.png",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.adobe.creativesdk/image/4.8.3/res/drawable-xxxhdpi-v4/com_adobe_image_tool_ic_stickers.png"
+    },
+    {
+        "merged": "/home/javier/AndroidStudioProjects/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/abc_ic_menu_share_mtrl_alpha.png",
+        "source": "/home/javier/AndroidStudioProjects/Camera/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable-xxxhdpi-v4/abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/javier/AndroidStudioProjects/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "/home/javier/AndroidStudioProjects/Camera/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable-xxxhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/com_adobe_image_tool_ic_fade.png",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.adobe.creativesdk/image/4.8.3/res/drawable-xxxhdpi-v4/com_adobe_image_tool_ic_fade.png"
+    },
+    {
+        "merged": "/home/javier/AndroidStudioProjects/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png",
+        "source": "/home/javier/AndroidStudioProjects/Camera/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable-xxxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/com_adobe_image_ic_colorsplash_free.png",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.adobe.creativesdk/image/4.8.3/res/drawable-xxxhdpi-v4/com_adobe_image_ic_colorsplash_free.png"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/com_adobe_image_editor_feedback_bug.png",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.adobe.creativesdk/image/4.8.3/res/drawable-xxxhdpi-v4/com_adobe_image_editor_feedback_bug.png"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/com_adobe_image_tool_ic_redeye.png",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.adobe.creativesdk/image/4.8.3/res/drawable-xxxhdpi-v4/com_adobe_image_tool_ic_redeye.png"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable-xxxhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/adobe_logo_white.png",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.adobe.creativesdk/image/4.8.3/res/drawable-xxxhdpi-v4/adobe_logo_white.png"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/com_adobe_image_ic_flip_vertical.png",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.adobe.creativesdk/image/4.8.3/res/drawable-xxxhdpi-v4/com_adobe_image_ic_flip_vertical.png"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/com_adobe_image_ic_enhance_night.png",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.adobe.creativesdk/image/4.8.3/res/drawable-xxxhdpi-v4/com_adobe_image_ic_enhance_night.png"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/com_adobe_image_tool_ic_colorsplash.png",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.adobe.creativesdk/image/4.8.3/res/drawable-xxxhdpi-v4/com_adobe_image_tool_ic_colorsplash.png"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/com_adobe_image_crop_item_invert_inverted.png",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.adobe.creativesdk/image/4.8.3/res/drawable-xxxhdpi-v4/com_adobe_image_crop_item_invert_inverted.png"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/com_adobe_image_tool_ic_contrast.png",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.adobe.creativesdk/image/4.8.3/res/drawable-xxxhdpi-v4/com_adobe_image_tool_ic_contrast.png"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/com_adobe_image_ic_enhance_portrait.png",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.adobe.creativesdk/image/4.8.3/res/drawable-xxxhdpi-v4/com_adobe_image_ic_enhance_portrait.png"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/com_adobe_image_tool_ic_perspective.png",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.adobe.creativesdk/image/4.8.3/res/drawable-xxxhdpi-v4/com_adobe_image_tool_ic_perspective.png"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/com_adobe_image_editor_ic_heart.png",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.adobe.creativesdk/image/4.8.3/res/drawable-xxxhdpi-v4/com_adobe_image_editor_ic_heart.png"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/abc_btn_check_to_on_mtrl_015.png",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable-xxxhdpi-v4/abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/home/javier/AndroidStudioProjects/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "/home/javier/AndroidStudioProjects/Camera/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable-xxxhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/com_adobe_image_tool_ic_frames.png",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.adobe.creativesdk/image/4.8.3/res/drawable-xxxhdpi-v4/com_adobe_image_tool_ic_frames.png"
+    },
+    {
+        "merged": "/home/javier/AndroidStudioProjects/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/abc_btn_check_to_on_mtrl_000.png",
+        "source": "/home/javier/AndroidStudioProjects/Camera/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable-xxxhdpi-v4/abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/com_adobe_image_bottombar_branding.png",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.adobe.creativesdk/image/4.8.3/res/drawable-xxxhdpi-v4/com_adobe_image_bottombar_branding.png"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/com_adobe_image_tool_ic_feedback.png",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.adobe.creativesdk/image/4.8.3/res/drawable-xxxhdpi-v4/com_adobe_image_tool_ic_feedback.png"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/abc_btn_check_to_on_mtrl_000.png",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable-xxxhdpi-v4/abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/com_adobe_image_free_logo_button.png",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.adobe.creativesdk/image/4.8.3/res/drawable-xxxhdpi-v4/com_adobe_image_free_logo_button.png"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/com_adobe_image_ic_text_color_disabled.png",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.adobe.creativesdk/image/4.8.3/res/drawable-xxxhdpi-v4/com_adobe_image_ic_text_color_disabled.png"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/com_adobe_image_ic_rotate_right.png",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.adobe.creativesdk/image/4.8.3/res/drawable-xxxhdpi-v4/com_adobe_image_ic_rotate_right.png"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/com_adobe_image_tool_ic_sharpen.png",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.adobe.creativesdk/image/4.8.3/res/drawable-xxxhdpi-v4/com_adobe_image_tool_ic_sharpen.png"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/com_adobe_image_tool_ic_highlight.png",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.adobe.creativesdk/image/4.8.3/res/drawable-xxxhdpi-v4/com_adobe_image_tool_ic_highlight.png"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/com_adobe_image_tool_ic_blemish.png",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.adobe.creativesdk/image/4.8.3/res/drawable-xxxhdpi-v4/com_adobe_image_tool_ic_blemish.png"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/com_adobe_image_ic_flip_horizontal.png",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.adobe.creativesdk/image/4.8.3/res/drawable-xxxhdpi-v4/com_adobe_image_ic_flip_horizontal.png"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable-xxxhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/com_adobe_image_editor_ic_survey.png",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.adobe.creativesdk/image/4.8.3/res/drawable-xxxhdpi-v4/com_adobe_image_editor_ic_survey.png"
+    },
+    {
+        "merged": "/home/javier/AndroidStudioProjects/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "/home/javier/AndroidStudioProjects/Camera/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable-xxxhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/abc_list_divider_mtrl_alpha_dark.9.png",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.adobe.creativesdk/image/4.8.3/res/drawable-xxxhdpi-v4/abc_list_divider_mtrl_alpha_dark.9.png"
+    },
+    {
+        "merged": "/home/javier/AndroidStudioProjects/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "/home/javier/AndroidStudioProjects/Camera/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable-xxxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/com_adobe_image_tool_ic_draw.png",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.adobe.creativesdk/image/4.8.3/res/drawable-xxxhdpi-v4/com_adobe_image_tool_ic_draw.png"
+    },
+    {
+        "merged": "/home/javier/AndroidStudioProjects/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/abc_ic_star_half_black_48dp.png",
+        "source": "/home/javier/AndroidStudioProjects/Camera/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable-xxxhdpi-v4/abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/com_adobe_image_content_recents.png",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.adobe.creativesdk/image/4.8.3/res/drawable-xxxhdpi-v4/com_adobe_image_content_recents.png"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/com_adobe_image_orientation_knob_pressed.png",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.adobe.creativesdk/image/4.8.3/res/drawable-xxxhdpi-v4/com_adobe_image_orientation_knob_pressed.png"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/com_adobe_image_editor_ic_sad_face.png",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.adobe.creativesdk/image/4.8.3/res/drawable-xxxhdpi-v4/com_adobe_image_editor_ic_sad_face.png"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/com_adobe_image_promo_image_packs.png",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.adobe.creativesdk/image/4.8.3/res/drawable-xxxhdpi-v4/com_adobe_image_promo_image_packs.png"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/com_adobe_image_bottombar_x.png",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.adobe.creativesdk/image/4.8.3/res/drawable-xxxhdpi-v4/com_adobe_image_bottombar_x.png"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable-xxxhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/abc_ic_star_half_black_48dp.png",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable-xxxhdpi-v4/abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "/home/javier/AndroidStudioProjects/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/abc_ic_star_black_36dp.png",
+        "source": "/home/javier/AndroidStudioProjects/Camera/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable-xxxhdpi-v4/abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/com_adobe_image_tool_ic_adjust.png",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.adobe.creativesdk/image/4.8.3/res/drawable-xxxhdpi-v4/com_adobe_image_tool_ic_adjust.png"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/com_adobe_image_crop_item_invert.png",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.adobe.creativesdk/image/4.8.3/res/drawable-xxxhdpi-v4/com_adobe_image_crop_item_invert.png"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/com_adobe_image_tool_ic_brightness.png",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.adobe.creativesdk/image/4.8.3/res/drawable-xxxhdpi-v4/com_adobe_image_tool_ic_brightness.png"
+    }
+]

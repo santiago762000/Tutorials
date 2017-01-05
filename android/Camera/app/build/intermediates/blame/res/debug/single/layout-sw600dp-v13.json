@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/layout-sw600dp-v13/adobe_csdk_ux_auth_activity_container_view.xml",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/auth/0.9.1186/res/layout-sw600dp-v13/adobe_csdk_ux_auth_activity_container_view.xml"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/layout-sw600dp-v13/design_layout_snackbar.xml",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.android.support/design/24.1.1/res/layout-sw600dp-v13/design_layout_snackbar.xml"
+    }
+]

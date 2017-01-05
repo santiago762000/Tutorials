@@ -1,0 +1,122 @@
+[
+    {
+        "merged": "/home/javier/AndroidStudioProjects/Camera/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/javier/AndroidStudioProjects/Camera/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-v21/com_adobe_image_scrubber_progress_horizontal.xml",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.adobe.creativesdk/image/4.8.3/res/drawable-v21/com_adobe_image_scrubber_progress_horizontal.xml"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-v21/com_adobe_image_effect_intensity_selector.xml",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.adobe.creativesdk/image/4.8.3/res/drawable-v21/com_adobe_image_effect_intensity_selector.xml"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-v21/com_adobe_image_card_background_light_selector.xml",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.adobe.creativesdk/image/4.8.3/res/drawable-v21/com_adobe_image_card_background_light_selector.xml"
+    },
+    {
+        "merged": "/home/javier/AndroidStudioProjects/Camera/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/javier/AndroidStudioProjects/Camera/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-v21/com_adobe_image_bottombar_tool_button_background.xml",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.adobe.creativesdk/image/4.8.3/res/drawable-v21/com_adobe_image_bottombar_tool_button_background.xml"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-v21/com_adobe_image_flat_button_dark_selector.xml",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.adobe.creativesdk/image/4.8.3/res/drawable-v21/com_adobe_image_flat_button_dark_selector.xml"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-v21/com_adobe_image_flat_button_blue_transparent_selector.xml",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.adobe.creativesdk/image/4.8.3/res/drawable-v21/com_adobe_image_flat_button_blue_transparent_selector.xml"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-v21/com_adobe_image_vector_drawable_progress_bar_medium.xml",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.adobe.creativesdk/image/4.8.3/res/drawable-v21/com_adobe_image_vector_drawable_progress_bar_medium.xml"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-v21/com_adobe_image_vector_drawable_progress_bar_large.xml",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.adobe.creativesdk/image/4.8.3/res/drawable-v21/com_adobe_image_vector_drawable_progress_bar_large.xml"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-v21/com_adobe_image_progress_small_material.xml",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.adobe.creativesdk/image/4.8.3/res/drawable-v21/com_adobe_image_progress_small_material.xml"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-v21/com_adobe_image_flat_button_blue_selector.xml",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.adobe.creativesdk/image/4.8.3/res/drawable-v21/com_adobe_image_flat_button_blue_selector.xml"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-v21/com_adobe_image_lens_button_background_selector.xml",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.adobe.creativesdk/image/4.8.3/res/drawable-v21/com_adobe_image_lens_button_background_selector.xml"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-v21/com_adobe_image_content_packs_background_selector.xml",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.adobe.creativesdk/image/4.8.3/res/drawable-v21/com_adobe_image_content_packs_background_selector.xml"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-v21/com_adobe_image_content_items_background_selector.xml",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.adobe.creativesdk/image/4.8.3/res/drawable-v21/com_adobe_image_content_items_background_selector.xml"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-v21/com_adobe_image_flat_button_feedback.xml",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.adobe.creativesdk/image/4.8.3/res/drawable-v21/com_adobe_image_flat_button_feedback.xml"
+    },
+    {
+        "merged": "/home/javier/AndroidStudioProjects/Camera/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/javier/AndroidStudioProjects/Camera/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-v21/com_adobe_image_progress_medium_material.xml",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.adobe.creativesdk/image/4.8.3/res/drawable-v21/com_adobe_image_progress_medium_material.xml"
+    },
+    {
+        "merged": "/home/javier/AndroidStudioProjects/Camera/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/home/javier/AndroidStudioProjects/Camera/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-v21/com_adobe_image_editor_resize_knob_selector.xml",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.adobe.creativesdk/image/4.8.3/res/drawable-v21/com_adobe_image_editor_resize_knob_selector.xml"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-v21/com_adobe_image_vector_drawable_progress_bar_small.xml",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.adobe.creativesdk/image/4.8.3/res/drawable-v21/com_adobe_image_vector_drawable_progress_bar_small.xml"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-v21/com_adobe_image_progress_large_material.xml",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.adobe.creativesdk/image/4.8.3/res/drawable-v21/com_adobe_image_progress_large_material.xml"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-v21/com_adobe_image_item_background_dark.xml",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.adobe.creativesdk/image/4.8.3/res/drawable-v21/com_adobe_image_item_background_dark.xml"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-v21/com_adobe_image_flat_button_dgray_transparent_selector.xml",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.adobe.creativesdk/image/4.8.3/res/drawable-v21/com_adobe_image_flat_button_dgray_transparent_selector.xml"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-v21/com_adobe_image_flat_button_lightgray_transparent_outline_selector.xml",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.adobe.creativesdk/image/4.8.3/res/drawable-v21/com_adobe_image_flat_button_lightgray_transparent_outline_selector.xml"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/drawable-v21/com_adobe_image_bottombar_tool_item_background.xml",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.adobe.creativesdk/image/4.8.3/res/drawable-v21/com_adobe_image_bottombar_tool_item_background.xml"
+    }
+]

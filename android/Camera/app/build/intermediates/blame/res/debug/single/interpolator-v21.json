@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/interpolator-v21/com_adobe_image_trim_start_interpolator.xml",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.adobe.creativesdk/image/4.8.3/res/interpolator-v21/com_adobe_image_trim_start_interpolator.xml"
+    },
+    {
+        "merged": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/res/merged/debug/interpolator-v21/com_adobe_image_trim_end_interpolator.xml",
+        "source": "/home/javier/code/Tutorials/android/Camera/app/build/intermediates/exploded-aar/com.adobe.creativesdk/image/4.8.3/res/interpolator-v21/com_adobe_image_trim_end_interpolator.xml"
+    }
+]
